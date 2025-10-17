@@ -1,4 +1,5 @@
-D 'aic_model_selection': Forward Model Selection using AIC or BIC Use aic_model_selection With STATA 19
+D 'lmngry2': 2SLS-IV Non Normality Geary Runs Test Use lmngry2 With STATA 19
 D
-F aic_model_selection.ado
-F aic_model_selection.sthlp
+F lmngry2.ado
+F lmngry2.dlg
+F lmngry2.sthlp
